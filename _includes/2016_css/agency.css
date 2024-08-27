@@ -339,7 +339,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/css/2016_style/img/header-bg.jpg');
+    background-image: url('https://unocasa.com/cdn/shop/articles/history_of_tacos_336eafe2-f8f3-447c-9bdc-be0ff359db4c_1024x.jpg?v=1619509813');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
