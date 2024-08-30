@@ -114,8 +114,8 @@ aside.clients,
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
-    color: #fff;
-    background-color: #{{ site.data.template.color.primary }};
+    color: #{{ site.data.template.color.white }};
+    background-color: #{{ site.data.template.color.secondary }};
 }
 
 .btn-primary:hover,
@@ -124,7 +124,7 @@ aside.clients,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
     border-color: #{{ site.data.template.color.primary }};
-    color: #fff;
+    color: #{{ site.data.template.color.white }}
     background-color: #{{ site.data.template.color.secondary }};
 }
 
@@ -155,7 +155,7 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-primary .badge {
     color: #{{ site.data.template.color.primary }};
-    background-color: #fff;
+    background-color: #{{ site.data.template.color.secondary }};
 }
 
 .btn-xl {
@@ -171,7 +171,7 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-sm, .btn-xl {
-    color: #fff;
+    color: #{{ site.data.template.color.white }};
     background-color: #{{ site.data.template.color.primary }};
     border-color: #{{ site.data.template.color.primary }};
     border-radius: 3px;
@@ -189,7 +189,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
     border-color: #{{ site.data.template.color.primary }};
-    color: #fff;
+    color: #{{ site.data.template.color.white }}
     background-color: #{{ site.data.template.color.secondary }};
 }
 
@@ -238,7 +238,7 @@ fieldset[disabled] .btn-xl.active {
 .btn-sm .badge,
 .btn-xl .badge {
     color: #{{ site.data.template.color.primary }};
-    background-color: #fff;
+    background-color: #{{ site.data.template.color.white }};
 }
 
 .navbar-default {
@@ -268,7 +268,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-    background-color: #fff;
+    background-color: #{{ site.data.template.color.white }};
 }
 
 .navbar-default .navbar-toggle:hover,
@@ -281,7 +281,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: {{ site.data.template.font.primary }};
     font-weight: 400;
     letter-spacing: 1px;
-    color: #fff;
+    color: #{{ site.data.template.color.white }};
 }
 
 .navbar-default .nav li a:hover,
@@ -292,13 +292,13 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
-    color: #fff;
+    color: #{{ site.data.template.color.white }};
     background-color: #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #fff;
+    color: #{{ site.data.template.color.white }};
     background-color: #{{ site.data.template.color.secondary }};
 }
 
@@ -337,7 +337,7 @@ fieldset[disabled] .btn-xl.active {
 header {
     height: 100vh;
     text-align: center;
-    color: #fff;
+    color: #{{ site.data.template.color.white }};
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/css/2024_style/img/TT_71north.png');
     background-position: center center;
@@ -460,7 +460,7 @@ section h3.section-subheading {
     margin-top: -12px;
     text-align: center;
     font-size: 120%;
-    color: #fff;
+    color: #{{ site.data.template.color.white }};
 }
 
 #speakers .speakers-item .speakers-link .speakers-hover .speakers-hover-content i {
@@ -479,8 +479,8 @@ section h3.section-subheading {
     max-width: 400px;
     min-height: 100px;
     text-align: center;
-    background-color: #fff;
-    
+    background-color: #{{ site.data.template.color.white }};
+
 }
 
 #speakers .speakers-item .speakers-caption h4 {
@@ -571,7 +571,7 @@ section h3.section-subheading {
     border: 7px solid #f1f1f1;
     border-radius: 100%;
     text-align: center;
-    color: #fff;
+    color: #{{ site.data.template.color.white }};
     background-color: #{{ site.data.template.color.primary }};
 }
 
@@ -718,7 +718,7 @@ section#contact {
 }
 
 section#contact .section-heading {
-    color: #fff;
+    color: #{{ site.data.template.color.white }};
 }
 
 section#contact .form-group {
@@ -811,7 +811,7 @@ ul.social-buttons li a {
     font-size: 20px;
     line-height: 40px;
     outline: 0;
-    color: #fff;
+    color: #{{ site.data.template.color.white }};
     background-color: #00283c;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
