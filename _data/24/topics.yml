@@ -1,0 +1,26 @@
+- title: "Intro to Github"
+  name: Github
+  subtitle: An introduction to the most widely used git repository service.
+  img: https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png
+  thumbnail: https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png
+  alt: Picture of git hub logo
+  topic: Github
+  description: Github is a web-based platform used for version control. It is a subsidiary of Microsoft, which acquired the company in 2018. It offers all of the distributed version control and source code management functionality of Git as well as adding its own features.
+
+- title: "Git Version Control"
+  name: Git
+  subtitle: An introduction to the most widely used version control system.
+  img: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png
+  thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png
+  alt: Picture of Git logo
+  topic: Git
+  description: Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
+
+- title: "Python Open House"
+  name: Python OH
+  subtitle: An introduction to the most widely used programming language.
+  img: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/219px-Python-logo-notext.svg.png
+  thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/219px-Python-logo-notext.svg.png
+  alt: Picture of python programming language logo
+  topic: Python
+  description: Python is an interpreted high-level general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation.

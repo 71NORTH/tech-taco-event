@@ -339,7 +339,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('https://unocasa.com/cdn/shop/articles/history_of_tacos_336eafe2-f8f3-447c-9bdc-be0ff359db4c_1024x.jpg?v=1619509813');
+    background-image: url('{{ site.baseurl }}/css/2024_style/img/TT_71north.png');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -480,6 +480,7 @@ section h3.section-subheading {
     min-height: 100px;
     text-align: center;
     background-color: #fff;
+    
 }
 
 #speakers .speakers-item .speakers-caption h4 {
