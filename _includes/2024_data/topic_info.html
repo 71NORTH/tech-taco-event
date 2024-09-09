@@ -1,6 +1,6 @@
  <!-- Portfolio Modals -->
- {% for post in site.data.24.topics %}
-    <div class="portfolio-modal modal fade" id="{{ post.name }}" tabindex="-1" role="dialog" aria-hidden="true">
+ {% for post in site.data.24.Schedule %}
+    <div class="portfolio-modal modal fade" id="{{ post.title | slugify}}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
