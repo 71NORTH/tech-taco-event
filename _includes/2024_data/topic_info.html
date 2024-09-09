@@ -18,7 +18,7 @@
                             {% if post.thumbnail contains 'http' %}
                             <img src="{{ post.img }}" class="img-responsive img-centered" alt="">
                             {% else %}
-                            <img src="../css/2017_style/img/speaker/{{ post.img }}" class="img-responsive img-centered" alt="">
+                            <img src="{{site.baseurl}}/css/2017_style/img/speaker/{{ post.img }}" class="img-responsive img-centered" alt="">
                             {% endif %}
                             
                             <h3>Topic: {{ post.topic }}</h3>

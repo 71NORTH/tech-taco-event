@@ -18,11 +18,11 @@
                             </div>
                         </div>
                         {% if post.thumbnail contains 'http' %}
-                        <img src="{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                            <img src="{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                         {% else %}
-
+                            <img src="{{site.baseurl}}/css/2017_style/img/speaker/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                         {% endif %}                        
-                        <img src="{{site.baseurl}}/css/2017_style/img/speaker/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
+                        
                     </a>
                     <div class="speakers-caption">
                         <h4>{{ post.title }}</h4>
