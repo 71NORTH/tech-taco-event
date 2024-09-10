@@ -1,5 +1,5 @@
 - title: "Intro to Github"
-  date: "09/03/2024"
+  date: "2024-09-03"
   subtitle: an Exploration into Markdown and how to use it in Github.
   img: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png
   thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png
@@ -9,7 +9,7 @@
 
 
 - title: "Git Version Control"
-  date: "09/10/2024"
+  date: "2024-09-10"
   subtitle: An introduction to the most widely used version control system.
   img: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png
   thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png
@@ -18,7 +18,7 @@
   description: Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
 
 - title: "Python Open House"
-  date: "09/17/2024"
+  date: "2024-09-17"
   subtitle: An introduction to the most widely used programming language.
   img: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/219px-Python-logo-notext.svg.png
   thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/219px-Python-logo-notext.png
@@ -27,7 +27,7 @@
   description: Python is an interpreted high-level general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation.
 
 - title: "Github & Markdown"
-  date: "09/24/2024"
+  date: "2024-09-24"
   subtitle: an Exploration into Markdown and how to use it in Github.
   img: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT904XZ8kpOic417aETQDdVWE2u5LpQ6XJhNQ&s
   thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT904XZ8kpOic417aETQDdVWE2u5LpQ6XJhNQ&s
@@ -36,23 +36,24 @@
   description: GitHub is a web-based platform used for version control and collaboration. Markdown is a lightweight markup language with plain-text-formatting syntax.
 
 - title: "Build a website in Markdown"
-  date: "10/01/2024"
+  date: "2024-10-01"
   subtitle: An introduction to building a website using the static site generator Jekyll.
 
 - title: "Math lateX in Markdown"
-  date: "10/08/2024"
+  date: "2024-10-08"
+  subtitle:
 
 - title: "Julia and Github"
-  date: "10/15/2024"
+  date: "2024-10-15"
 
 - title: "Tech for Good - Special Event"
-  date: "10/22/2024"
+  date: "2024-10-22"
 
 - title: "Github Open House"
-  date: "10/29/2024"
+  date: "2024-10-29"
 
 - title: "SQL Mystery"
-  date: "11/12/2024"
+  date: "2024-11-12"
 
 - title: "R Open House"
-  date: "11/19/2024"
+  date: "2024-11-19"
