@@ -45,7 +45,7 @@
   description: Create a stunning website without breaking the bank or your brain! Using Markdown and Jekyll, we'll help you craft a professional profile hosted on GitHub for free. Perfect for anyone launching a personal profile (especially grad students needing a job market website).
   
 - title: "Math LaTeX in Markdown"
-  date: "10/08/2024"
+  date: "2024-10-08"
   subtitle: An introduction to LaTeX math in Markdown.
   img: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2048px-LaTeX_logo.svg.png
   thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2048px-LaTeX_logo.svg.png
@@ -54,7 +54,7 @@
   description: Join Dr. Anna Klis from the Economics Department to master LaTeX math in Markdown. Learn to create beautiful equations for your GitHub notebook and discover shortcuts for Microsoft Office and online platforms like Packback.
 
 - title: "Julia and Github"
-  date: "10/15/2024"
+  date: "2024-10-15"
   subtitle: An introduction to the Julia programming language.
   img: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Julia_prog_language.svg/2048px-Julia_prog_language.svg.png
   thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Julia_prog_language.svg/2048px-Julia_prog_language.svg.png
@@ -63,13 +63,13 @@
   description: This event should be similar to the Python open house. I’m still waiting on confirmation of whether a colleague in Math is up for attending. If any upper years are comfortable with Julia, then we’d love to have them come to help answer questions.
 
 - title: "Tech for Good - Special Event"
-  date: "10/22/2024"
+  date: "2024-10-22"
   subtitle: An exploration of the ethical implications of AI.
   topic: AI Ethics
   description: This one is going to be a bit different. It is likely a lecture from Dr. Andrea Guzman in Communications on AI ethics. So the location of this one might be different, and though the topic is less focused on programming, it will still be very interesting.
 
 - title: "Github Open House"
-  date: "10/29/2024"
+  date: "2024-10-29"
   subtitle: An exploration of the collaborative features of Github.
   img: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png
   thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png
@@ -78,7 +78,7 @@
   description: Join us for our GitHub Open House! Bring your questions, projects, and appetite. Our team will be on hand to help with all things GitHub; afterward, we’ll “taco ’bout it”. Let's collaborate, learn, and code together!
 
 - title: "Intro to SQL"
-  date: "11/12/2024"
+  date: "2024-11-12"
   subtitle: An introduction to SQL.
   img: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/2048px-Sql_data_base_with_logo.png
   thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/2048px-Sql_data_base_with_logo.png
@@ -87,7 +87,7 @@
   description: Dive into the world of databases with our SQL introduction! Learn the basics of this powerful query language used by businesses worldwide. We'll cover fundamental concepts and hands-on practice.
 
 - title: "SQL Mystery"
-  date: "11/19/2024"
+  date: "2024-11-19"
   subtitle: An interactive mystery-solving session using SQL.
   img: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/2048px-Sql_data_base_with_logo.png
   thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/2048px-Sql_data_base_with_logo.png
