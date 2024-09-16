@@ -5,7 +5,7 @@
   thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png
   alt: Picture of Github logo
   topic: Github Markdown
-  description: GitHub is a web-based platform used for version control and collaboration. Markdown is a lightweight markup language with plain-text-formatting syntax.
+  description: Join us for a fun, supportive session to kickstart your GitHub journey! Create your account and dive into GitHub Tutorials. Perfect for beginners looking to explore this essential tool for programmers.
 
 
 - title: "Git Version Control"
@@ -15,7 +15,7 @@
   thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png
   alt: Picture of Git logo
   topic: Git
-  description: Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files.
+  description: Discover the power of version control! Learn how Git helps programmers of all levels, from solo coders to big businesses. We'll guide you through GitHub tutorials on push/pull operations.
 
 - title: "Python Open House"
   date: "2024-09-17"
@@ -24,7 +24,7 @@
   thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/219px-Python-logo-notext.png
   alt: Picture of python programming language logo
   topic: Python
-  description: Python is an interpreted high-level general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation.
+  description: Got Python questions? We've got answers! Join 71N Innovation staff for an interactive open house focused on integrating Python with GitHub.
 
 - title: "Github & Markdown"
   date: "2024-09-24"
@@ -33,27 +33,64 @@
   thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT904XZ8kpOic417aETQDdVWE2u5LpQ6XJhNQ&s
   alt: Picture of Github logo
   topic: Github Markdown
-  description: GitHub is a web-based platform used for version control and collaboration. Markdown is a lightweight markup language with plain-text-formatting syntax.
+  description: Unlock the potential of Markdown! Learn this simple yet powerful way to enhance your text on platforms like GitHub and Microsoft Loop. We'll cover lists, fonts, and more.
 
 - title: "Build a website in Markdown"
   date: "2024-10-01"
   subtitle: An introduction to building a website using the static site generator Jekyll.
-
-- title: "Math lateX in Markdown"
-  date: "2024-10-08"
-  subtitle:
+  img: https://miro.medium.com/v2/resize:fit:930/1*A6XKUw5ZGeMA7w7lG5SG9g.png
+  thumbnail: https://www.svgrepo.com/show/376329/jekyll.svg
+  alt: Picture of Jekyll logo
+  topic: Jekyll
+  description: Create a stunning website without breaking the bank or your brain! Using Markdown and Jekyll, we'll help you craft a professional profile hosted on GitHub for free. Perfect for anyone launching a personal profile (especially grad students needing a job market website).
+  
+- title: "Math LaTeX in Markdown"
+  date: "10/08/2024"
+  subtitle: An introduction to LaTeX math in Markdown.
+  img: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2048px-LaTeX_logo.svg.png
+  thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2048px-LaTeX_logo.svg.png
+  alt: Picture of LaTeX logo
+  topic: LaTeX
+  description: Join Dr. Anna Klis from the Economics Department to master LaTeX math in Markdown. Learn to create beautiful equations for your GitHub notebook and discover shortcuts for Microsoft Office and online platforms like Packback.
 
 - title: "Julia and Github"
-  date: "2024-10-15"
+  date: "10/15/2024"
+  subtitle: An introduction to the Julia programming language.
+  img: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Julia_prog_language.svg/2048px-Julia_prog_language.svg.png
+  thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Julia_prog_language.svg/2048px-Julia_prog_language.svg.png
+  alt: Picture of Julia programming language logo
+  topic: Julia
+  description: This event should be similar to the Python open house. I’m still waiting on confirmation of whether a colleague in Math is up for attending. If any upper years are comfortable with Julia, then we’d love to have them come to help answer questions.
 
 - title: "Tech for Good - Special Event"
-  date: "2024-10-22"
+  date: "10/22/2024"
+  subtitle: An exploration of the ethical implications of AI.
+  topic: AI Ethics
+  description: This one is going to be a bit different. It is likely a lecture from Dr. Andrea Guzman in Communications on AI ethics. So the location of this one might be different, and though the topic is less focused on programming, it will still be very interesting.
 
 - title: "Github Open House"
-  date: "2024-10-29"
+  date: "10/29/2024"
+  subtitle: An exploration of the collaborative features of Github.
+  img: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png
+  thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png
+  alt: Picture of Github logo
+  topic: Github
+  description: Join us for our GitHub Open House! Bring your questions, projects, and appetite. Our team will be on hand to help with all things GitHub; afterward, we’ll “taco ’bout it”. Let's collaborate, learn, and code together!
+
+- title: "Intro to SQL"
+  date: "11/12/2024"
+  subtitle: An introduction to SQL.
+  img: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/2048px-Sql_data_base_with_logo.png
+  thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/2048px-Sql_data_base_with_logo.png
+  alt: Picture of SQL logo
+  topic: Database:SQL
+  description: Dive into the world of databases with our SQL introduction! Learn the basics of this powerful query language used by businesses worldwide. We'll cover fundamental concepts and hands-on practice.
 
 - title: "SQL Mystery"
-  date: "2024-11-12"
-
-- title: "R Open House"
-  date: "2024-11-19"
+  date: "11/19/2024"
+  subtitle: An interactive mystery-solving session using SQL.
+  img: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/2048px-Sql_data_base_with_logo.png
+  thumbnail: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/2048px-Sql_data_base_with_logo.png
+  alt: Picture of SQL logo
+  topic: Database:SQL
+  description: Put your SQL skills to the test in this interactive mystery-solving session! Use your newfound database querying prowess to unravel clues and crack the case. A fun, delicious way to reinforce your SQL knowledge. Tacos and mysteries await!
